@@ -1,4 +1,4 @@
-[![MasterHead](](https://github.com/peixotoigor)
+[![MasterHead](https://github.com/peixotoigor/peixotoigor/blob/main/Igor%20peixoto%20(3).png)](https://github.com/peixotoigor)
 <h1 align="center">Oi 👋, eu sou Igor Peixoto</h1>
 <h3 align="center">Um apaixonado por Física e entusiasta por Análise de dados e Ciência de dados.</h3>
 
