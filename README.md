@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRayK4C7WW9GdOrrNXnTRB4egQPfHAilwHLxQ&usqp=CAU)]
 <h1 align="center">Oi 👋, eu sou Igor Peixoto</h1>
 <h3 align="center">Um apaixonado por Física e entusiasta por Análise de dados e Ciência de dados.</h3>
 
