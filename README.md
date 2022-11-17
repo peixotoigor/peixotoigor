@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRayK4C7WW9GdOrrNXnTRB4egQPfHAilwHLxQ&usqp=CAU)](https://github.com/peixotoigor)
+[![MasterHead](https://photos.google.com/search/_tra_/photo/AF1QipNjh_SSXKvwS1Z7II739PYxVv3rpqkZnvEflkEy)](https://github.com/peixotoigor)
 <h1 align="center">Oi 👋, eu sou Igor Peixoto</h1>
 <h3 align="center">Um apaixonado por Física e entusiasta por Análise de dados e Ciência de dados.</h3>
 
