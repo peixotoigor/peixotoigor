@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peixotoigor&label=Profile%20views&color=0e75b6&style=flat" alt="peixotoigor" /> </p>
 
-- 💬 Me pergunte sobre **Física, Mecânica Quântica, Latex, Python, Machine Learning, Pandas, Matplotlib**
-
 - 📫 Você pode me encontrar em **igorpeixoto_@outlook.com.br**
 
 <h3 align="left"> Entre em contato comigo:</h3>
