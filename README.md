@@ -30,17 +30,6 @@ Atualmente, estudo **Engenharia da Computação** e busco unir minha experiênci
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peixotoigor&show_icons=true&theme=swift&hide_border=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peixotoigor&theme=swift&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peixotoigor&show_icons=true&layout=compact&theme=swift&hide_border=true" alt="Top Langs" />
-</p>
-
----
 
 ## 🤝 Vamos Conectar
 
